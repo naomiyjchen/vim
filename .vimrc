@@ -84,6 +84,7 @@ call plug#begin('~/.vim/plugged')
 Plug 'preservim/nerdtree'
 Plug 'tpope/vim-commentary'
 Plug 'tpope/vim-fugitive'
+Plug 'bfrg/vim-c-cpp-modern'
 
 call plug#end()
 
