@@ -24,7 +24,7 @@ set smartindent      " Adjusts indentation automatically in programming contexts
 set expandtab        " Converts tabs to spaces, ensuring consistent indentation across editors.
                      " Example: When pressing <Tab>, Vim inserts spaces instead of a tab character.
 
-
+set paste            " Enable paste mode
 
 " Visual Enhancements
 syntax on            " Enables syntax highlighting for programming languages.
